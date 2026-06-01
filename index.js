@@ -221,6 +221,5 @@ TO TORA © Premium Affiliate Store — All rights reserved
 res.send(html);
 });
 
-app.listen(3000,"0.0.0.0",()=>{
 console.log("TO TORA FINAL UI lancé");
 });
